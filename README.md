@@ -8,7 +8,7 @@ It is a program which outputs all the Fibonacci Series values and also the numbe
 
 TASK:
 It has ability to find the "value" and the "number of calls" when the user enters the Fibonacci Series number.
-User can also enter the multiple inputs while running the program once.(do-while loop is used).
+User can also enter the multiple inputs while running the program once (do-while loop is used).
 
 It is designed as a user friendly.
 
